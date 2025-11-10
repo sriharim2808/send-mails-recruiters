@@ -1,0 +1,188 @@
+DevOps  Engineer  
+SUPRIYA GOWRA  
+Mobile: +91 81253 36081 
+  Email: supriyasuppug98@gmail.com 
+Bangalore, KA    
+Professional Summary  
+ Having 4+ years of experience in the field of DevOps Engineer in application configurations, code compilation, 
+packaging, building, automating managing and releasing code from one environment to other and deploying 
+servers.  
+ Used shell scripts to day-to-day activities and tasks for automating.  
+ Utilized Git for version control to efficiently manage code changes, create branches, and merge features across 
+the development team.  
+ Managed project dependencies using Maven, ensuring consistent and reliable builds for Java-based 
+applications.  
+ Utilized Docker to containerize applications, enabling consistent deployment across different environments.  
+ Created Helm charts to define Kubernetes deployments, simplifying application installations and upgrades.  
+ Set up Prometheus to collect and store application and system metrics, enabling real-time monitoring and 
+alerting.  
+ Developed Grafana dashboards to visualize Prometheus metrics, providing insights into application 
+performance.  
+ Configured Nexus as a private artifact repository, facilitating secure storage and efficient distribution of build 
+artifacts.  
+ Integrated AWS services (EC2, S3, RDS, Lambda) to design and manage scalable cloud infrastructures.  
+ Developed custom Terraform modules for infrastructure standardization.  
+ Proficient in Terraform for Infrastructure as Code (IaC) across multiple cloud platforms. 
+ Integrated Jenkins with Git repositories, enabling automated builds and tests upon code changes.  
+ Integrated Jenkins with SonarQube for automated code analysis, enforcing code quality standards and 
+identifying issues.  
+ Utilized Jira for issue tracking and agile project management, ensuring smooth collaboration between teams.  
+ Utilized Confluence to document processes, runbooks, and project details, facilitating knowledge sharing 
+among team members.  
+ Utilized AWS CloudWatch for monitoring AWS resources, enabling proactive identification of performance 
+issues.  
+ Conducted automated security scans using SonarQube and integrated security checks into CI/CD pipelines to 
+ensure application security.  
+Academic Qualification:  
+Graduated in B.zc                                                                                         
+Sreenivasa Degree College                                                                           
+Jun 2016 – Jul 2019   
+Kalikiri, IN  
+DevOps  Engineer  
+Technical Skills:  
+Version Control  
+Operating Systems  
+Scripting  
+GIT,GitHub and BitBucket  
+Windows, Linux  
+Shell Scripting ,Python,Groovy  
+Build Tools               
+Configuration Management  
+Infrastructure as a code  
+Maven  
+Ansible  
+Terraform  
+Application Server  
+Continuous Integration Tools  
+Cloud Environment  
+ngnix  
+Jenkins  
+AWS,GCP  
+Code quality  
+Bug Tracking Tool  
+Deployment Tools  
+Sonarqube  
+Jira  
+Kubernetes, Docker  
+Artifact Management Tool  
+AWS Services  
+Nexus,s3  
+Ec2,IAM,RDS,code commit,code build,Route53,code build,code 
+pipeline,VPC,Lambda,SNS,Cloudwatch,Secrets manager,SNS  
+Professional Experience:  
+Project #3 
+Worked as a Senior DevOps Engineer at Infosys Ltd from Sept 2024 from October 2025.  
+Role  
+Senior DevOps Engineer  
+Environment  
+Jenkins, Docker, Kubernetes, Git, Github, Sonarqube, AWS Cloud, Nginx, 
+python , shell script  
+ Managed Git branches (dev, UAT, prod), created PR, and resolved Git-related issues by reverting to previous 
+versions.  
+ Created webhooks in Git and automated deployment strategy using Jenkins.  
+ Created Jenkins pipeline scripts for different projects and deployed them to various environments.  
+ Installed required plugins in Jenkins and troubleshot Jenkins-related issues.  
+ Wrote Dockerfiles, created Docker images, and pushed them to ECR repositories.  
+ Created and managed EKS clusters, deployed Docker images, and resolved container and network issues.  
+ Worked closely with developers to troubleshoot deployment issues and provide application access.  
+ Created DNS names in Route53, generated SSL certificates, and enabled access through domain names.  
+ Provided IAM access to new employees and conducted KT sessions for junior team members.  
+ Created S3 buckets, configured log folder access for developers, and monitored application logs.  
+ Automated repetitive tasks using shell scripts.  
+ Used CloudWatch to monitor CPU and disk utilization and created alerts for threshold breaches.  
+ Worked daily with AWS services like EC2, VPC, ALB, Route53, SSM, SG, route tables, NAT, IG, Billing Dashboard, 
+CloudWatch, and Lambda.  
+ Automated infrastructure provisioning using Terraform, created reusable modules, and stored state files in S3.  
+ Managed disaster recovery and ensured minimal downtime to regain infrastructure.  
+ Created AWS Organization and managed dedicated applications for demo purposes.  
+ Led the DevOps team and provided guidance to resolve issues.  
+DevOps  Engineer  
+ Automated running applications using systemd functions.  
+ Deployed Python and frontend applications and integrated them with backend services.  
+ Configured VPN using OpenVPN and restricted access to internal environments.  
+Project#2  
+Project Name 
+Worked as DevOps Engineer at Infosys Ltd Bangalore from Jun 2023 to Sept 2024.  
+BOFA 
+Client 
+Infosys 
+Role 
+DevOps Engineer 
+Environment 
+Maven, GIT, Jenkins, Shell Scripting, Tomcat, Linux,AWS Cloud, Jira, Docker, 
+Kubernetes, Sonarqube, Terraform 
+Project Description: Bank of America (BOFA) Application Deployment and Continuous Integration Project  
+In this project, we aimed to streamline the deployment process and improve the overall efficiency of the Bank of 
+America (BOFA) application using various DevOps tools and technologies. The primary focus was on implementing 
+continuous integration and continuous deployment (CI/CD) pipelines while ensuring the security, reliability, and 
+scalability of the application on an AWS cloud infrastructure.  
+Roles and Responsibilities:  
+ Implemented AWS Identity and Access Management (IAM) by creating and managing users, groups, and roles 
+with least-privilege permission policies, ensuring secure access control. 
+ Automated infrastructure provisioning using Terraform, improving deployment speed and consistency. 
+ Maintained tagging compliance across all AWS resources for better organization, cost tracking, and management. 
+ Analyzed resource utilization metrics (CPU, memory) to ensure efficient cloud resource usage and scalability. 
+ Automated infrastructure management and provisioning with Terraform to ensure consistency and efficiency.  
+ Implemented and managed Kubernetes clusters on AWS EKS, ensuring optimal scalability and performance. 
+ Attended weekly scrum meetings, actively communicating the status of critical issues, and providing updates on 
+bug fixes and other high-priority tasks. 
+ Designed and deployed AWS infrastructure leveraging services like VPC, EC2, S3, IAM, EBS, Auto Scaling, RDS, 
+CloudWatch, Security Groups, and more to meet application and business requirements. 
+Project#1  
+HSBC  
+Worked as DevOps Engineer at Infosys Ltd ,Bangalore from April 2021 to May 2023 .  
+Project Name  
+Client  
+Infosys  
+Role  
+DevOps Engineer  
+Environment  
+Maven, GIT, Jenkins, Shell Scripting, Tomcat, Linux , AWS, Docker, Java, ,Nexus, 
+SonarQube, Kubernetes,Bitbucket,Ansible  
+Roles and Responsibilities:  
+AWS and Cloud Infrastructure: 
+ Proficient in AWS Services including EC2, EKS, Elastic Load Balancers, ALB, S3, EBS, RDS, VPC, Route53, 
+CloudWatch, CloudTrail, and IAM. 
+DevOps  Engineer  
+ Managed and provisioned AWS infrastructure for Dev, Stage, and Production environments using automation 
+techniques. 
+ Networking Configuration and Debugging: Configured AWS Security Groups as virtual firewalls to control 
+inbound and outbound traffic for EC2 instances, ensuring secure access.  Skilled in debugging networking issues 
+related to ELB, NACLs, and NAT gateways. 
+ Terraform Integration: have worked with Terraform to provision and manage AWS infrastructure in various 
+environments, ensuring consistent and repeatable infrastructure deployments. 
+ Cost Optimization: Have been involved in cost-saving initiatives or optimizing infrastructure resources in AWS. 
+ Cloud Security: Also worked with IAM, security groups, or encryption to secure infrastructure for the 
+application teams in AWS. 
+Docker and Kubernetes: 
+ Utilized Docker and Kubernetes for managing, scaling, and updating containers, improving automation and 
+operational efficiency. 
+ Built and deployed Docker images into Kubernetes EKS clusters as Deployment Sets and Replica Sets ensuring 
+reliable application delivery. 
+ Implemented ConfigMaps and Secrets to manage application configurations and sensitive information 
+securely within the Kubernetes environment. 
+ Created and managed the AWS Load Balancer Controller to facilitate seamless integration with Kubernetes 
+services, enhancing load balancing capabilities. 
+ Ensured pod scalability by utilizing the Horizontal Pod Autoscaler to dynamically adjust the number of Pods 
+based on resource utilization and demand. 
+DevOps and Automation: 
+ Worked on CI/CD pipelines using Jenkins, supporting automated builds, testing, and deployments for multiple 
+environments. 
+ Release Management: Familiar with supporting daily release builds and deployments, with knowledge of 
+debugging issues related to infrastructure, services, and deployments to ensure smooth operations. 
+Version Control and Collaboration: 
+ Applied best practices in GIT source control, establishing appropriate branching strategies for managing day
+to-day code changes. 
+ Collaborated with cross-functional teams and participated in client discussions to resolve critical and priority 
+bugs. 
+ Attended weekly scrum meetings, actively communicating the status of critical issues, and providing updates 
+on bug fixes and other high-priority tasks. 
+Incident Management and Troubleshooting: 
+ Handled P1 incidents, debugging and resolving critical user issues in production environments to ensure 
+minimal downtime. 
+Declaration  
+I hereby declare that the above mentioned information is correct up to my knowledge and  I hear the 
+responsibility for the correctness of the above mentioned particulars.  
+Date:  
+Place: Bangalore                                                                                  
+(SUPRIYA GOWRA)  
